@@ -1,0 +1,10 @@
+{
+	"productName": "Launcher Lite",
+	"mainBinaryName": "Launcher Lite",
+	"identifier": "LauncherLite",
+	"bundle": {
+		"targets": ["nsis"],
+		"createUpdaterArtifacts": false,
+		"fileAssociations": []
+	}
+}
